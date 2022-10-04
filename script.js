@@ -29,10 +29,10 @@ else if(op=='%')
 }
 // window.alert("RESULT IS"+r);
 
-// function Darkmode()
-//   {
-//     var c=document.getElementById("but")
-//     var e=document.body
-//     document.body.style.backgroundColor="#A020F0"
-//     c.innerText="Dark mode is on"
-//   }
+ function Darkmode()
+   {
+    var c=document.getElementById("but")
+    var e=document.body
+     document.body.style.backgroundColor="#A020F0"
+     c.innerText="Dark mode is on"
+   }
